@@ -10,7 +10,7 @@
     <meta name="author" content="">
 	<!---	<link rel="icon" href="../../favicon.ico">	-->
 
-    <title>How to Print your Data in Table</title>
+    <title>Results</title>
 
     <!-- Bootstrap core CSS -->
     <link href="dist/css/bootstrap.min.css" rel="stylesheet">
