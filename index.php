@@ -72,7 +72,7 @@
     <div class="container">
       <div class="page-header">
 		<h2>
-			Print your Data in Table
+			Results
 		</h2>
 			<form method="post" action="data-print.php" target="_new" class="form-inline">
 			  <div class="form-group">
